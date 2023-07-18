@@ -149,7 +149,7 @@ sup {
 }
 
 .animateActive {
-  animation: animate 1s linear;
+  animation: animate 3s linear;
 }
 
 @keyframes animate {
